@@ -4,6 +4,7 @@
 # deep-learning-challenge
 
 ## Background
+
 The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 
 From Alphabet Soup’s business team, you have received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization, such as:
@@ -136,26 +137,20 @@ Results: Using bulleted lists and images to support your answers, address the fo
 
  •	I added more layers, removed more columns, added additional hidden nodes, and switched up the activation functions associated with each layer attempting  to achieve higher model accuracy.
 
-# First Attempt
+### First Attempt
 
  ![image](https://github.com/mcaro01/deep-learning-challenge/assets/125619215/b0f49663-a61a-417e-a6be-6cd5845a33a8)
 
-
-# Second Attempt 
+### Second Attempt 
 
 ![image](https://github.com/mcaro01/deep-learning-challenge/assets/125619215/61b9be19-80fb-49b3-b311-f120f24254e8)
 
- 
-
-# Third Attempt:
+### Third Attempt:
 
 ![image](https://github.com/mcaro01/deep-learning-challenge/assets/125619215/7e968f7b-d231-4fa0-b304-16a7aeb073a5)
-
-
-
  
 ## Summary: 
-Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+ Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 
 Overall, the deep learning model was around 73% accurate in predicting the classification problem. Using a model with greater correlation between input and output would likely result in higher prediction accuracy. This could be achieved by doing additional data cleanup up front, as well as by using a model with different activation functions and iterating until higher accuracy is reached.
 
